@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Sean Morris!
 
-<!--
-**sm110101/sm110101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MS in Data Science & Analytics @ Georgetown University  
+🧠 Exploring Computer Vision, NLP, and Suppy Chain
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 About Me
+
+- 🎓 I’m a data science grad student @ Georgetown with an economics background  
+- 🧠 Researching topics like the **Collision Detection**, classic ML, and decentralized compute  
+- 🧰 I build tools and packages in Python for fun 
+- 💡 I helped start *Georgetown Blockchain*, taking it from dorm-room to B-school affiliation  
+- 🧗‍♂️ Lost 30+ lbs through walking, running, and a clean diet — always optimizing  
+
+---
+
+## 🛠️ Tech & Tools
+
+### 📊 Programming & Data  
+**Languages:** Python | R | SQL  
+**Libraries:** Pandas | NumPy | Scikit-Learn | Matplotlib | Seaborn  
+**Other:** Jupyter | GitHub | VS Code  
+
+### 💽 Databases  
+AWS | MongoDB | DuckDB | Azure  
+
+---
+
+## 🚀 Projects
+
+- [`Object Detection GIF Generator`](https://github.com/sm110101/object-detection): YOLOv5-powered app on Hugging Face
+- `MyTorch`: Scratch-build version of pytorch using *finite-difference* optimization
+- [`Steelkey Tools`](https://github.com/sm110101/steelkey_tools): Unified token and protocol positions across chains
+
+
+---
+
+## 📚 Currently Learning
+
+- 🧠 Deep learning and graph neural networks  
+- 📉 Advanced time series modeling  
+- ♟️ Reinforcement Learning
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 [Website](https://morris.georgetown.domains)  
+- 💼 [LinkedIn](https://linkedin.com/in/spm122)  
+- 🐦 [Twitter](https://twitter.com/sm110101)
+
+---
