@@ -29,7 +29,7 @@ AWS | MongoDB | DuckDB | Azure
 
 ## 🚀 Projects
 
-- [`Object Detection GIF Generator`](https://github.com/sm110101/object-detection): YOLOv5-powered app on Hugging Face
+- [`Object Detection GIF Generator`]([https://github.com/sm110101/object-detection](https://huggingface.co/spaces/sm110101/YOLO-to-GIF)): YOLOv8-powered app on Hugging Face
 - `MyTorch`: Scratch-build version of pytorch using *finite-difference* optimization
 - [`Steelkey Tools`](https://github.com/sm110101/steelkey_tools): Unified token and protocol positions across chains
 
