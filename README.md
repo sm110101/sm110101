@@ -30,7 +30,7 @@ AWS | MongoDB | DuckDB | Azure
 ## 🚀 Projects
 
 - [`Object Detection GIF Generator`](https://huggingface.co/spaces/sm110101/YOLO-to-GIF): YOLOv8-powered app on Hugging Face
-- [`MyTorch`](https://github.com/sm110101/mytorch): Scratch-build version of pytorch using *finite-difference* optimization
+- [`MyTorch`](https://github.com/sm110101/mytorch): Scratch-build version of pytorch using *finite-difference* gradient descent
 - [`Steelkey Tools`](https://github.com/sm110101/steelkey_tools): Unified token and protocol positions across chains using DeBank API
 
 
