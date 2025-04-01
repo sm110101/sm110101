@@ -10,7 +10,7 @@
 - 🎓 I’m a data science grad student @ Georgetown with an economics background  
 - 🧠 Researching topics like **Collision Detection**, classic ML, and decentralized compute  
 - 🧰 I build tools and packages in Python for fun 
-- 💡 I helped start *Georgetown Blockchain*, taking it from dorm-room to B-school affiliation  
+- 💡 I helped start *Georgetown Blockchain*, taking it from dorm-room to McDonough business-school affiliation  
 - 🧗‍♂️ Lost 40+ lbs through walking, running, and a clean diet — always optimizing  
 
 ---
