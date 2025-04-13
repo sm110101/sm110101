@@ -20,7 +20,7 @@
 ### 📊 Programming & Data  
 **Languages:** Python | R | SQL  
 **Libraries:** Pandas | NumPy | Scikit-Learn | Matplotlib | Seaborn  
-**Other:** Jupyter | GitHub | VS Code  
+**Other:** Streamlit | Gradio | Jupyter | GitHub | VS Code  
 
 ### 💽 Databases  
 AWS | MongoDB | DuckDB | Azure  
