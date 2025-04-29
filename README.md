@@ -22,7 +22,7 @@
 **Libraries:** Torch | TensorFlow | Pandas | NumPy | Scikit-Learn | Matplotlib | Seaborn  
 **Other:** Streamlit | Gradio | Jupyter | GitHub | VS Code  
 
-### ☁️ Cloud Infra  
+### ☁️ Cloud 
 AWS (S3, EC2, LightSail) | LambdaLabs | DuckDB | Azure | MongoDB 
 
 ---
